@@ -38,3 +38,15 @@
 결과
 
 ![](Aspose.Words.1bdeaced-db5b-4876-bf3e-3602e4507997.012.png)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 004](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/0746c6dc-e8b7-4bc6-b848-ed2fd8a3e22c)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 003](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/3277ac0e-e16c-4920-85cd-127b951f5057)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 002](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/03e973cd-0978-4693-b5ba-0d87914ea736)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 001](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/498f4985-cc49-4da7-897f-12dc2ab239ae)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 012](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/706dd7d2-0065-4a15-965d-6b2ed4a2e512)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 011](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/ca6d58bb-33d9-4d6b-a79b-262710bd74f2)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 010](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/0e29e739-040b-4e26-9c19-5de931475745)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 009](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/780fefce-7eee-4870-893b-d610bf465355)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 008](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/a5dd0d19-45cc-495a-9e8f-a667dbed5368)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 007](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/523b0233-f1ed-42d2-8284-ef584be2e74d)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 006](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/84eb3b00-dfa0-4cfb-9410-ae0297647bf6)
+![Aspose Words 1bdeaced-db5b-4876-bf3e-3602e4507997 005](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/fb674594-3ece-40eb-8c7e-ffbd4f6db38c)
