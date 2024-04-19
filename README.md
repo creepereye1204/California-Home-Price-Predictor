@@ -1,4 +1,5 @@
-![image](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/94968a04-eb96-4b8b-9adc-61204897b5c9)
+![image](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/f8562122-575b-476f-89ad-3646cb0f14f2)
+
 ![image](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/c36dd1e0-fbd3-4330-8aaa-5f0fd736ecff)
 ![image](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/2c5b82e5-c221-404f-affa-acb5d568f4f7)
 ![image](https://github.com/creepereye1204/California-Home-Price-Predictor/assets/112455232/5f070d6e-01a6-46a8-8883-218dd5b9a9ac)
